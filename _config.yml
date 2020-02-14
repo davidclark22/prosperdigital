@@ -23,8 +23,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We're experts at designing and building small business websites. We offer affordable web design and hosting solutions tailored to your needs.
 # baseurl: "/"
-baseurl: "/prosperdigital" # the subpath of your site, e.g. /blog
-url: "//davidclark22.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "//prosperdigitalconsulting.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
